@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Webktech
 - 👀 I’m interested in Front-end developer.
 - 🌱 I’m currently learning how to take projects.
-- 💞️ I’m looking to collaborate with clients.
+- 💞️ I’m looking to collaborate new clients.
 - 📫 Contact with me in GitHub.
 
 <!---
